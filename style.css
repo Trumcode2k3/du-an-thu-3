@@ -1,0 +1,66 @@
+.navbar-brand img {
+  width: 110px;
+}
+.navbar {
+  background-color: #ffc196;
+  border-bottom: 1px solid black;
+  position: sticky !important;
+  z-index: 100;
+  top: 0;
+}
+.fa-user {
+  margin-right: 10px;
+}
+.header-btn {
+  margin-right: 20px;
+}
+.fa-right-to-bracket {
+  margin-right: 10px;
+}
+.fa-user-check {
+  margin-right: 10px;
+}
+.fa-user-graduate {
+  margin-right: 10px;
+}
+.list-group-item:hover {
+  opacity: 0.8;
+}
+.fa-star {
+  margin-right: 5px;
+}
+.fa-circle-info {
+  margin-right: 10px;
+}
+.subscribe {
+  background-image: url(https://i.pinimg.com/736x/eb/bf/d7/ebbfd7efb0527c2e21bc14251812ee75.jpg);
+}
+.fa-envelope {
+  margin-right: 10px;
+}
+.last-img {
+  width: 200px;
+  height: 200px;
+}
+.fa-facebook {
+  margin-right: 10px;
+}
+.fa-twitter {
+  margin-right: 5px;
+}
+.fa-youtube {
+  margin-right: 10px;
+}
+.copy-right {
+  background: #000;
+}
+.blur-filter {
+  backdrop-filter: blur(8px);
+  background-color: #cccccc0c;
+}
+.fa-question {
+  margin-right: 10px;
+}
+.fa-paper-plane {
+  margin-right: 10px;
+}
